@@ -1,0 +1,4 @@
+com/weatherapp/controller/WeatherController.class
+com/weatherapp/App.class
+com/weatherapp/service/WeatherService.class
+com/weatherapp/WeatherApp.class
