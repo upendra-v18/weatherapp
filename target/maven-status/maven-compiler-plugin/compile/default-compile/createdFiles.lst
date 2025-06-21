@@ -1,4 +1,6 @@
-com/weatherapp/controller/WeatherController.class
 com/weatherapp/App.class
+com/weatherapp/WeatherAppApplication.class
 com/weatherapp/service/WeatherService.class
+com/weatherapp/WeatherService.class
+com/weatherapp/WeatherController.class
 com/weatherapp/WeatherApp.class
